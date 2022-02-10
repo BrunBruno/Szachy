@@ -1,0 +1,6 @@
+﻿  Źródło.cpp
+C:\Users\Bruno\source\repos\Szachy\Szachy\Źródło.cpp(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Bruno\source\repos\Szachy\Szachy\Źródło.cpp(498,6): warning C4101: "chx": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Bruno\source\repos\Szachy\Szachy\Źródło.cpp(498,11): warning C4101: "chy": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Bruno\source\repos\Szachy\Szachy\Źródło.cpp(735,14): warning C4101: "err": lokalna zmienna, do której nie istnieje odwołanie
+  Szachy.vcxproj -> C:\Users\Bruno\source\repos\Szachy\Debug\Szachy.exe
